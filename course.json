@@ -1,0 +1,27 @@
+{
+  "author": {
+    "name": "Rayen Korbi",
+    "company": "React Tutorial"
+  },
+  "title": "Complete Intro to React",
+  "subtitle": "Learn React from the Ground Up",
+  "frontendMastersLink": "",
+  "social": {
+    "linkedin": "rayenkorbi",
+    "github": "rayenkorbi",
+    "twitter": "rayenkorbi"
+  },
+  "description": "A comprehensive introduction to React, teaching you everything from the fundamentals to advanced concepts. Learn component-based architecture, state management, hooks, and more through hands-on examples.",
+  "keywords": [
+    "React",
+    "JavaScript",
+    "Frontend",
+    "Web Development",
+    "Components",
+    "Hooks",
+    "State Management",
+    "React Tutorial",
+    "Learn React"
+  ],
+  "csvPath": "./out/lessons.csv"
+}
